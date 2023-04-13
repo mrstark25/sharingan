@@ -1,0 +1,24 @@
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+DEBUG:Chroma:Index saved to .chroma/index/index.bin
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 572-433-161
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.000896453857421875
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 14:44:27] "GET /bot?question=what%20is%20crypto HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Apr/2023 14:44:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

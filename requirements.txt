@@ -1,0 +1,4 @@
+Flask==2.2.3
+langchain==0.0.126
+nltk==3.8.1
+python_magic==0.4.27
